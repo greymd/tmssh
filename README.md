@@ -1,5 +1,7 @@
 
-# !This "tmssh" repository will be renamed in the near future. Please be careful!
+# !This "tmssh" repository is no longer maintained!
+# Use [tmux-xpanes](https://github.com/greymd/tmux-xpanes) instead.
+# `xpanes --ssh` command behaves like `tmssh` !
 
 
 # tmssh
